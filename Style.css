@@ -1,0 +1,98 @@
+.Header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(109, 217, 221);
+}
+.Top{
+    
+    display:flex;
+    justify-content: space-between;
+   
+}
+.Bottom{
+  
+    display:flex;
+    justify-content: space-between;
+}
+.A{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.B{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.C{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.D{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.E{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+.F{
+    border:solid;
+    border-radius: 50px;
+    margin: 5px;
+    padding:10px
+}
+
+.Top img{
+    border: 2px solid;
+    border-radius: 50px
+}
+.Bottom img{
+    border: 2px solid;
+    border-radius: 50px
+}
+a:link{
+    color:rgb(0, 0, 255)
+}
+a:visited{
+    color:rgb(0, 0, 100)
+}
+.imga1:hover{
+ 
+transform: scale(1.05);
+padding-left: 10px;
+}
+.imga2:hover{
+ 
+transform: scale(1.05);
+padding-left: 10px;
+}
+.imga3:hover{
+transform: scale(1.05);
+padding-left: 10px;
+}
+.imga4:hover{
+transform: scale(1.05);
+padding-left: 10px;
+}
+.imga5:hover{
+transform: scale(1.05);
+padding-left: 10px;
+}
+.imga6:hover{
+ 
+transform: scale(1.05);
+padding-left: 10px;
+}
+.links{
+    padding-right: 10px;
+   
+}
